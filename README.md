@@ -1,9 +1,7 @@
 # Notes of PHP
 
 Pattern example
-```python
-import packagexyz
-
+```php
 class Circle{  
     const PI_6DEC = 3.141592;
     public function circumference($radius){ 
